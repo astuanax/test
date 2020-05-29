@@ -1,2 +1,1 @@
-# test
-test repo for nodegit
+read me file needs an update
